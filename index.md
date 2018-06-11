@@ -9,6 +9,8 @@
     Defender
   </summary>
   
+  * [Defender: Doug Urner](https://douglasurner.github.io/prototypes/Defender/index.html) --- I modified this game to use the night sky background, I thought that that would look better with the laser.
+  
 </details>
 
 <details>
@@ -22,11 +24,7 @@
   <summary markdown="span">
     Lander
   </summary>
-  
-  * [Lander Example: Doug Urner](https://douglasurner.github.io/prototypes/Lander/index.html)
-  
-    This is a "plain vanilla" version of Lander that I built to test the Unity web build.
-  
+    
 </details>
 
 <details>
