@@ -2,8 +2,6 @@
 # Make sure Jekyll sees us.
 ---
 
-# Playtest!
-
 >Add a link to your game in the appropriate section below. After you add your link commit the change and push to GitHub. Then make a pull request so that your game becomes part of the master list.
 
 <details>
@@ -13,7 +11,12 @@
   
 </details>
 
-# Football
+<details>
+  <summary markdown="span">
+    Football
+  </summary>
+  
+</details>
 
 <details>
   <summary markdown="span">
@@ -26,10 +29,37 @@
   
 </details>
 
-# Maze
+<details>
+  <summary markdown="span">
+    Maze
+  </summary>
+  
+</details>
 
-# Playground
+<details>
+  <summary markdown="span">
+    Playground
+  </summary>
+  
+</details>
 
-# Rougelike
+<details>
+  <summary markdown="span">
+    Rougelike
+  </summary>
+  
+</details>
 
-# Original Games
+<details>
+  <summary markdown="span">
+    Football
+  </summary>
+  
+</details>
+
+<details>
+  <summary markdown="span">
+     Original Games
+  </summary>
+  
+</details>
