@@ -25,6 +25,7 @@
     Lander
   </summary>
     
+    * [Lander: Andrew Mattucci](https://andrewmattucci.github.io/Final/index.html) --- I changed a few minor things haing to do with rotation and speed of the player. 
 </details>
 
 <details>
