@@ -14,7 +14,7 @@
     Football
   </summary>
   
-  * [Football: Doug Urner]() --- Changed the ball sprite.
+  * [Football: Doug Urner](https://douglasurner.github.io/prototypes/WordGame/index.html) --- Changed the ball sprite.
   
 </details>
 
