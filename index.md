@@ -16,7 +16,7 @@
   
 </details>
 
-<details>
+* [ Lander: Alex Young]young0904.github.io lander) --- i changed the speed of the ship so that is it more easier to move around the play area.
   <summary markdown="span">
     Lander
   </summary>
