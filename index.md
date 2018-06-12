@@ -59,5 +59,7 @@
   <summary markdown="span">
      Original Games
   </summary>
+  * [Spin](https://revo1utionn.github.io/GameSpin/index.html)
   
 </details>
+
