@@ -60,7 +60,7 @@
      Original Games
   </summary>
   
-  * [Spin - Bryan Gates](https://revo1utionn.github.io/GameSpin/index.html) Spin is a arcade based mobile game, were you play as an asteroid drifting in space trying to get the highest spin speed.
+  * [Lander - liam pratt](https://CaptainLeemo.github.io/buiuld/index.html) In "Lander", you have to move a space ship from one point to another. There are obstacles blocking the end point, so it isn't as easy as it sounds.
   
   
   
