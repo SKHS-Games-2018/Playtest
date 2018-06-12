@@ -8,7 +8,7 @@ To do this:
 1. **Click on the index.md file and play around a bit to see how it works.**
 1. Then click on the edit pencil so you can look at the structure of the file.
 
-''' html
+``` html
 <details>
   <summary markdown="span">
     Defender
@@ -19,4 +19,4 @@ To do this:
     I want to fix is the way the game ends.
   
 </details>
-'''
+```
