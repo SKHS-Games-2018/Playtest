@@ -14,6 +14,8 @@
     Football
   </summary>
   
+  * [Football: Doug Urner]() --- Changed the ball sprite.
+  
 </details>
 
 <details>
