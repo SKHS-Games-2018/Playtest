@@ -26,3 +26,6 @@ This file is a mixture of Markdown and HTML. Each section consists of some HTML 
 ``` markdown
 * [GAME_NAME: YOUR_NAME](GAME_URL) --- Short description of your game.
 ```
+
+4. After you have edited the `index.md` file in your fork of the Playtest repository, commit the changes and test that the link to your game works.
+1. When evrery thing looks good and is working, **create a pull request**:
