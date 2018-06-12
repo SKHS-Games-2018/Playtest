@@ -4,9 +4,9 @@ After you have built your game and published it on your website, add a link to t
 
 To do this:
 
-1. Fork this repository on that you can edit it and add your game.
-1. **Click on the index.md file and play around a bit to see how it works.**
-1. Then click on the edit pencil so you can look at the structure of the file.
+1. **Fork this repository** on that you can edit it and add your game.
+1. **Click on the index.md file** and play around a bit to see how it works.
+1. Then **click on the edit pencil** so you can look at the structure of the file. You will see that each of the sections looks something like this:
 
 ``` html
 <details>
@@ -19,4 +19,10 @@ To do this:
     I want to fix is the way the game ends.
   
 </details>
+```
+
+This file is a mixture of Markdown and HTML. Each section consists of some HTML markup to create the collapsing sections around a Markdown list of games. You will be adding an entry to the list for your game. Your entry will look like this:
+
+``` markdown
+* [GAME_NAME: YOUR_NAME](GAME_URL) --- Short description of your game.
 ```
