@@ -13,9 +13,9 @@
   <summary markdown="span">
     Football
   </summary>
-  
-  * [Football: Doug Urner](https://douglasurner.github.io/prototypes/WordGame/index.html) --- Changed the ball sprite.
-  
+
+* [Football: Hayden Robinson](https://unwantedgamemaker.github.io/Football/index.html) --- I fixed the bugs and changed the playing fiel to make it harder.
+
 </details>
 
 <details>
