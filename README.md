@@ -29,7 +29,7 @@ This file is a mixture of Markdown and HTML. Each section consists of some HTML 
 
 4. After you have edited the `index.md` file in your fork of the Playtest repository, **commit the changes and test that the link to your game works.**
 1. When evrery thing looks good and is working, **create a pull request**:
-  - **Click on the `Pull requests` tab** near the top of the page --- it's between `Issues` and `Projects`.
-  - On the right, **click on the green `New pull request` button**.
-  - **Enter a description of your pull request.**
-  - **Click on the Create pull request button.**
+   - **Click on the `Pull requests` tab** near the top of the page --- it's between `Issues` and `Projects`.
+   - On the right, **click on the green `New pull request` button**.
+   - **Enter a description of your pull request.**
+   - **Click on the Create pull request button.**
