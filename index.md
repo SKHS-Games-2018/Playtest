@@ -14,6 +14,8 @@
     Football
   </summary>
   
+  * [Football: Kaleb Carbone]() --- I did a bug fix with the goals, and how if you run in to them they add a point. I fixed that and made the game a bit harder and entertaining!
+  
 </details>
 
 <details>
