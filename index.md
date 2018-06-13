@@ -1,5 +1,15 @@
 >Add a link to your game in the appropriate section below. After you add your link commit the change and push to GitHub. Then make a pull request so that your game becomes part of the master list.
 
+## Original Games
+
+  * [Spin: Bryan Gates](https://revo1utionn.github.io/GameSpin/index.html) --- Spin is a arcade based mobile game, were you play as an asteroid drifting in space trying to get the highest spin speed.
+
+  * [First game: Matthew Adams](https://adam1354.github.io/FirstGame/index.html) --- I took a game that I played called ever wing and decided to make my own version to it.
+
+  * [Iron Eagles: Jack Stencil]() --- This is a small version of what will be a larger game where the player controlls a spaceship and has to defend against increasing waves of enemies.
+
+## Variations
+
 <details>
   <summary markdown="span">
     Defender
@@ -56,18 +66,4 @@
   
   * [Rougelike: Heaven Mize](https://myzer0soul0902.github.io/GameBuild/index.html) --- I'm planning on editing Rougelike to have a proper ending.
   
-</details>
-
-<details>
-  <summary markdown="span">
-     Original Games
-  </summary>
-  
-  * [Spin: Bryan Gates](https://revo1utionn.github.io/GameSpin/index.html) --- Spin is a arcade based mobile game, were you play as an asteroid drifting in space trying to get the highest spin speed.
-
-  * [First game: Matthew Adams](https://adam1354.github.io/FirstGame/index.html) --- I took a game that I played called ever wing and decided to make my own version to it.
-
-  * [Iron Eagles: Jack Stencil]() --- This is a small version of what will be a larger game where the player controlls a spaceship and has to defend against increasing waves of enemies.
-
-</details>
 
