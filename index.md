@@ -13,6 +13,8 @@
   * [Ghost&Bee: Jackson]() --- This a minature clone of a mario map. You play as a ghost with a bee following him. "Fallout76"
 
   * [Moon Evade: Anthony Feuchtwanger](https://github.com/Buddy312/Adv-Game-Final/) --- This is a small version of what will be a larger game where the player controls rocket and he has to evade left and right to not get hit by the asteroids coming his way and has to survive for as long as possible. When hit it turns off the camera and deletes the Rocket. I would like to expand this to include a 2d version as well. I would also like to add in a 3 life system, but the spawn rate and what is being spawned can be change.
+  
+  * [Cat Dash: Micah Hargrave](Games/CatDash/index.html) --- Cat Dash is a running game, you have to try and get to end without losing all your lives. Live are taken away when you are hit by a weight, to restore your health collect the gold coins
 
 ## Variations
 
