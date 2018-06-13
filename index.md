@@ -47,6 +47,7 @@
   <summary markdown="span">
     Lander
   </summary>
+ * [Paul Mize: Unorginial slightly editted lander](https://Dr-Bork.GitHub.io/flo/index.html) --- I modified where the rocks sit, later I want to change how many lives there is and how the game truly ends, possibly adding more levels.
     
  * [Lander: Andrew Mattucci](https://andrewmattucci.github.io/Final/index.html) --- I changed a few minor things having to do with rotation and speed of the player. 
 
