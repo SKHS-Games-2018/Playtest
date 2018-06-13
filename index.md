@@ -79,4 +79,5 @@
   
   * [Rougelike: Doug Urner]() --- Working on adding a second level.
   
-
+  * [Rougelike: Justin Sewell]() --- Built a second area for the game with enemies and items with a maze.
+   
