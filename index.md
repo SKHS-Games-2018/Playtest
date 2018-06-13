@@ -31,7 +31,7 @@
 
  * [Lander: liam pratt](https://CaptainLeemo.github.io/buiuld/index.html) --- In "Lander", you have to move a space ship from one point to another. There are obstacles blocking the end point, so it isn't as easy as it sounds.
  
- * [Lander: Alex Young]young0904.github.io lander) --- i changed the speed of the ship so that is it more easier to move around the play area.
+ * [Lander: Alex Young](young0904.github.io lander) --- i changed the speed of the ship so that is it more easier to move around the play area.
   
 </details>
 
