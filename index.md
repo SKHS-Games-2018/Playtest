@@ -55,7 +55,7 @@
  
  * [Lander: Isaiah Montez](https://isaiahmontez.github.io/Lander/index.html)--- work on the controls
 
-* [Lander: Malcolm Cisler](https://DatCancerousBoi.github.io/WebGL/index.html)
+* [Lander: Malcolm Cisler](https://DatCancerousBoi.github.io/WebGL/index.html) --- I edited the controls so it controls smoother. I also made the level more challanging and added a different game over result.
 </details>
 
 <details>
