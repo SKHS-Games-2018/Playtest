@@ -28,7 +28,7 @@
   
   * [Defender: Matthew Kincaid](https://github.com/Matthew-Kincaid/Matthew-Kincaid.github.io) --- I changed the creation rate for the cannon from 0.4 to 0.25. The next thing i did was change the rotation spped of the player from 25 to 40. Finally I made changed the winner score from 5 to 25. 
   
-  *[Defender: Allison Maurice](https://allisonmaurice.github.io/WebGL/index.html)--- I changed the speed of the cannon to 40, created a new background with a moon or asteroid, and increased the winner score to 20.
+  * [Defender: Allison Maurice](https://allisonmaurice.github.io/WebGL/index.html)--- I changed the speed of the cannon to 40, created a new background with a moon or asteroid, and increased the winner score to 20.
 </details>
 
 <details>
