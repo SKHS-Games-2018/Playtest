@@ -58,13 +58,6 @@
 
 <details>
   <summary markdown="span">
-    Football
-  </summary>
-  
-</details>
-
-<details>
-  <summary markdown="span">
      Original Games
   </summary>
   
