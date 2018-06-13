@@ -7,6 +7,8 @@
   * [First game: Matthew Adams](https://adam1354.github.io/FirstGame/index.html) --- I took a game that I played called ever wing and decided to make my own version to it.
 
   * [Iron Eagles: Jack Stencil]() --- This is a small version of what will be a larger game where the player controlls a spaceship and has to defend against increasing waves of enemies.
+  
+  * [Ghost&Bee: Jackson]() --- This a minature clone of a mario map. You play as a ghost with a bee following him. "Fallout76"
 
 ## Variations
 
@@ -65,5 +67,7 @@
   </summary>
   
   * [Rougelike: Heaven Mize](https://myzer0soul0902.github.io/GameBuild/index.html) --- I'm planning on editing Rougelike to have a proper ending.
-    
+  
+  * [Rougelike: Doug Urner]() --- Working on adding a second level.
+  
 
