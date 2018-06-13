@@ -65,7 +65,5 @@
   </summary>
   
   * [Rougelike: Heaven Mize](https://myzer0soul0902.github.io/GameBuild/index.html) --- I'm planning on editing Rougelike to have a proper ending.
-  
-  * [Rougelike: Doug Urner]() --- Working on adding a second level.
-  
+    
 
