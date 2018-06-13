@@ -2,6 +2,8 @@
 
 ## Original Games
 
+  * [Bup Blaster: Riley Bennett](https://RileyBennett.github.io/BupBlaster/index.html) --- Bup Blaster is a game in which the player must survive as long as possible by flying around in a spaceship and shooting the angry bups chasing after them.
+
   * [Spin: Bryan Gates](https://revo1utionn.github.io/GameSpin/index.html) --- Spin is a arcade based mobile game, were you play as an asteroid drifting in space trying to get the highest spin speed.
 
   * [First game: Matthew Adams](https://adam1354.github.io/FirstGame/index.html) --- I took a game that I played called ever wing and decided to make my own version to it.
@@ -9,6 +11,8 @@
   * [Iron Eagles: Jack Stencil]() --- This is a small version of what will be a larger game where the player controlls a spaceship and has to defend against increasing waves of enemies.
   
   * [Ghost&Bee: Jackson]() --- This a minature clone of a mario map. You play as a ghost with a bee following him. "Fallout76"
+
+  * [Moon Evade: Anthony Feuchtwanger](https://github.com/Buddy312/Adv-Game-Final/) --- This is a small version of what will be a larger game where the player controls rocket and he has to evade left and right to not get hit by the asteroids coming his way and has to survive for as long as possible. When hit it turns off the camera and deletes the Rocket. I would like to expand this to include a 2d version as well. I would also like to add in a 3 life system, but the spawn rate and what is being spawned can be change.
 
 ## Variations
 
@@ -44,7 +48,9 @@
  * [Lander: Liam Pratt](https://CaptainLeemo.github.io/buiuld/index.html) --- In "Lander", you have to move a space ship from one point to another. There are obstacles blocking the end point, so it isn't as easy as it sounds.
  
  * [Lander: Alex Young](young0904.github.io lander) --- i changed the speed of the ship so that is it more easier to move around the play area.
-  
+ 
+ * [Lander: Isaiah Montez](https://isaiahmontez.github.io/Lander/index.html)--- work on the controls
+
 </details>
 
 <details>
