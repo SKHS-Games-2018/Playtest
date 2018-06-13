@@ -7,6 +7,8 @@
   
   * [Defender: Doug Urner](https://douglasurner.github.io/prototypes/Defender/index.html) --- I modified this game to use the night sky background, I thought that that would look better with the laser. The next thing I want to fix is the way the game ends.
   
+  * [Defender: Matthew Kincaid](https://github.com/Matthew-Kincaid/Matthew-Kincaid.github.io) --- I changed the creation rate for the cannon from 0.4 to 0.25. The next thing i did was change the rotation spped of the player from 25 to 40. Finally I made changed the winner score from 5 to 25. 
+  
 </details>
 
 <details>
@@ -14,8 +16,10 @@
     Football
   </summary>
   
-  * [Football: Kaleb Carbone](FailFasterStudios.github.io") --- I did a bug fix with the goals, and how if you run in to them they add a point. I fixed that and made the game a bit harder and entertaining!
-  
+* [Football: Hayden Robinson](https://unwantedgamemaker.github.io/Football/index.html) --- I fixed the bugs and changed the playing fiel to make it harder.
+
+* [Football: Kaleb Carbone](FailFasterStudios.github.io") --- I did a bug fix with the goals, and how if you run in to them they add a point. I fixed that and made the game a bit harder and entertaining!
+
 </details>
 
 <details>
@@ -64,5 +68,7 @@
   
   * [Spin: Bryan Gates](https://revo1utionn.github.io/GameSpin/index.html) --- Spin is a arcade based mobile game, were you play as an asteroid drifting in space trying to get the highest spin speed.
 
+  * [Iron Eagles: Jack Stencil]() --- This is a small version of what will be a larger game where the player controlls a spaceship and has to defend against increasing waves of enemies.
+  
 </details>
 
