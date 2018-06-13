@@ -14,6 +14,9 @@
 
   * [Moon Evade: Anthony Feuchtwanger](https://github.com/Buddy312/Adv-Game-Final/) --- This is a small version of what will be a larger game where the player controls rocket and he has to evade left and right to not get hit by the asteroids coming his way and has to survive for as long as possible. When hit it turns off the camera and deletes the Rocket. I would like to expand this to include a 2d version as well. I would also like to add in a 3 life system, but the spawn rate and what is being spawned can be change.
 
+*.[Rocket Race: Jakob Farrell].(Games/RocketRace/index.html) --- You control a rocket, flying away from a magnet that is constantly chasing you, while doing this you must avoid the physical barriers that slow you down and/or stop you.
+
+
 ## Variations
 
 <details>
