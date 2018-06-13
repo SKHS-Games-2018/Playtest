@@ -24,7 +24,7 @@
   <summary markdown="span">
     Lander
   </summary>
-    
+   * [Paul Mize: Unorginial slightly editted lander](https://Dr-Bork.GitHub.io/flo/index.html) --- I modified where the rocks sit, later I want to change how many lives there is and how the game truly ends, possibly adding more levels.
 </details>
 
 <details>
