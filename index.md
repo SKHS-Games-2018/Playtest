@@ -14,6 +14,8 @@
 
   * [Moon Evade: Anthony Feuchtwanger](https://github.com/Buddy312/Adv-Game-Final/) --- This is a small version of what will be a larger game where the player controls rocket and he has to evade left and right to not get hit by the asteroids coming his way and has to survive for as long as possible. When hit it turns off the camera and deletes the Rocket. I would like to expand this to include a 2d version as well. I would also like to add in a 3 life system, but the spawn rate and what is being spawned can be change.
 
+ * [truckstop: James Tisdel](Games/truckstop/index.html) --- this game is a small game where the ruls are simple move left and right usin a and d then jump with the space bar, you just want to collect the most amount of coins by the end of the game. at some point there will be a timer added so you can try o beat the clock.
+
 ## Variations
 
 <details>
