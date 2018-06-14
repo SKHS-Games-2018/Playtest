@@ -27,7 +27,14 @@
   * [Defender: Doug Urner](https://douglasurner.github.io/prototypes/Defender/index.html) --- I modified this game to use the night sky background, I thought that that would look better with the laser. The next thing I want to fix is the way the game ends.
   
   * [Defender: Matthew Kincaid](https://github.com/Matthew-Kincaid/Matthew-Kincaid.github.io) --- I changed the creation rate for the cannon from 0.4 to 0.25. The next thing i did was change the rotation spped of the player from 25 to 40. Finally I made changed the winner score from 5 to 25. 
- * [Defender: Ryan Lay](http://mrclean123.github.io/WebGL/index.html) --- Change Enemy type from an asteroid to somthing else like a space ship 
+
+* [Defender: Ryan Lay](http://mrclean123.github.io/WebGL/index.html) --- Change Enemy type from an asteroid to somthing else like a space ship 
+
+  
+  * [Defender: Allison Maurice](https://allisonmaurice.github.io/WebGL/index.html) --- I changed the speed of the cannon to 40, created a new background with a moon or asteroid, and increased the winner score to 20.
+
+  * [Defender: Dacoda Cummings](https://Daco10.github.io/WebGL/index.html) --- I'll make the background a space type theme and I will make ending more interesting
+
 </details>
 
 <details>
@@ -39,12 +46,15 @@
 
 * [Football: Kaleb Carbone](FailFasterStudios.github.io") --- I did a bug fix with the goals, and how if you run in to them they add a point. I fixed that and made the game a bit harder and entertaining!
 
+* [football: Colby Starkel](https://ColbyStarkel.github.io/WebGL/index.html) --- I made there be more characters in the game. 
 </details>
 
 <details>
   <summary markdown="span">
     Lander
   </summary>
+ 
+ * [Paul Mize: Unorginial slightly editted lander](https://Dr-Bork.GitHub.io/flo/index.html) --- I modified where the rocks sit, later I want to change how many lives there is and how the game truly ends, possibly adding more levels.
     
  * [Lander: Andrew Mattucci](https://andrewmattucci.github.io/Final/index.html) --- I changed a few minor things having to do with rotation and speed of the player. 
 
@@ -54,6 +64,7 @@
  
  * [Lander: Isaiah Montez](https://isaiahmontez.github.io/Lander/index.html)--- work on the controls
 
+* [Lander: Malcolm Cisler](https://DatCancerousBoi.github.io/WebGL/index.html) --- I edited the controls so it controls smoother. I also made the level more challanging and added a different game over result.
 </details>
 
 <details>
@@ -79,4 +90,5 @@
   
   * [Rougelike: Doug Urner]() --- Working on adding a second level.
   
-
+  * [Rougelike: Justin Sewell](https://Starfighter36.github.io/WebGL/index.html) --- Built a second area for the game with enemies and items with a maze.
+   
