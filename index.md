@@ -28,7 +28,10 @@
   
   * [Defender: Matthew Kincaid](https://github.com/Matthew-Kincaid/Matthew-Kincaid.github.io) --- I changed the creation rate for the cannon from 0.4 to 0.25. The next thing i did was change the rotation spped of the player from 25 to 40. Finally I made changed the winner score from 5 to 25. 
   
-  * [Defender: Allison Maurice](https://allisonmaurice.github.io/WebGL/index.html)--- I changed the speed of the cannon to 40, created a new background with a moon or asteroid, and increased the winner score to 20.
+  * [Defender: Allison Maurice](https://allisonmaurice.github.io/WebGL/index.html) --- I changed the speed of the cannon to 40, created a new background with a moon or asteroid, and increased the winner score to 20.
+
+  * [Defender: Dacoda Cummings](https://Daco10.github.io/WebGL/index.html) --- I'll make the background a space type theme and I will make ending more interesting
+
 </details>
 
 <details>
@@ -46,6 +49,8 @@
   <summary markdown="span">
     Lander
   </summary>
+ 
+ * [Paul Mize: Unorginial slightly editted lander](https://Dr-Bork.GitHub.io/flo/index.html) --- I modified where the rocks sit, later I want to change how many lives there is and how the game truly ends, possibly adding more levels.
     
  * [Lander: Andrew Mattucci](https://andrewmattucci.github.io/Final/index.html) --- I changed a few minor things having to do with rotation and speed of the player. 
 
