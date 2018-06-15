@@ -30,6 +30,8 @@
 
 
 
+  * [Galactica: SpecterSans/Deven Deriso](Games/Galactica/index.html) --- A shooter where the camera stays in one place, there's only four slow enemies and a couple of asteroids
+
 ## Variations
 
 <details>
