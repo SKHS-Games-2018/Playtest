@@ -1,5 +1,3 @@
-remote_theme: douglasurner/canvas
 markdown: kramdown
 kramdown:
   parse_block_html: true
-
