@@ -28,11 +28,13 @@
   
   * [Defender: Matthew Kincaid](https://github.com/Matthew-Kincaid/Matthew-Kincaid.github.io) --- I changed the creation rate for the cannon from 0.4 to 0.25. The next thing i did was change the rotation spped of the player from 25 to 40. Finally I made changed the winner score from 5 to 25. 
 
-* [Defender: Ryan Lay](http://mrclean123.github.io/WebGL/index.html) --- Change Enemy type from an asteroid to somthing else like a space ship 
- 
-* [Defender: Allison Maurice](https://allisonmaurice.github.io/WebGL/index.html) --- I changed the speed of the cannon to 40, created a new background with a moon or asteroid, and increased the winner score to 20.
+  * [Defender: John Fiery](https://JMF1011.github.io/WebGL/index.html) --- I basically changed the score limit and that was pretty much it.  
 
-* [Defender: Dacoda Cummings](https://Daco10.github.io/WebGL/index.html) --- I'll make the background a space type theme and I will make ending more interesting
+  * [Defender: Ryan Lay](http://mrclean123.github.io/WebGL/index.html) --- Change Enemy type from an asteroid to somthing else like a space ship 
+  
+  * [Defender: Allison Maurice](https://allisonmaurice.github.io/WebGL/index.html) --- I changed the speed of the cannon to 40, created a new background with a moon or asteroid, and increased the winner score to 20.
+
+  * [Defender: Dacoda Cummings](https://Daco10.github.io/WebGL/index.html) --- I'll make the background a space type theme and I will make ending more interesting
 
 </details>
 
