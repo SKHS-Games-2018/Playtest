@@ -19,6 +19,9 @@
   * [Monstertruck Nw:Nathan Whitney](Games/MonstertruckNw/index.html) --- Use the Monstertruck to collect the 4 coins  
   
 
+* [Rocket Race: Jakob Farrell](Games/RocketRace/index.html) --- You control a rocket, flying away from a magnet that is constantly chasing you, while doing this you must avoid the physical barriers that slow you down and/or stop you.
+
+
 ## Variations
 
 <details>
