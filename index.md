@@ -29,11 +29,10 @@
   * [Defender: Matthew Kincaid](https://github.com/Matthew-Kincaid/Matthew-Kincaid.github.io) --- I changed the creation rate for the cannon from 0.4 to 0.25. The next thing i did was change the rotation spped of the player from 25 to 40. Finally I made changed the winner score from 5 to 25. 
 
 * [Defender: Ryan Lay](http://mrclean123.github.io/WebGL/index.html) --- Change Enemy type from an asteroid to somthing else like a space ship 
+ 
+* [Defender: Allison Maurice](https://allisonmaurice.github.io/WebGL/index.html) --- I changed the speed of the cannon to 40, created a new background with a moon or asteroid, and increased the winner score to 20.
 
-  
-  * [Defender: Allison Maurice](https://allisonmaurice.github.io/WebGL/index.html) --- I changed the speed of the cannon to 40, created a new background with a moon or asteroid, and increased the winner score to 20.
-
-  * [Defender: Dacoda Cummings](https://Daco10.github.io/WebGL/index.html) --- I'll make the background a space type theme and I will make ending more interesting
+* [Defender: Dacoda Cummings](https://Daco10.github.io/WebGL/index.html) --- I'll make the background a space type theme and I will make ending more interesting
 
 </details>
 
@@ -64,7 +63,8 @@
  
  * [Lander: Isaiah Montez](https://isaiahmontez.github.io/Lander/index.html)--- work on the controls
 
-* [Lander: Malcolm Cisler](https://DatCancerousBoi.github.io/WebGL/index.html) --- I edited the controls so it controls smoother. I also made the level more challanging and added a different game over result.
+ * [Lander: Malcolm Cisler](https://DatCancerousBoi.github.io/WebGL/index.html) --- I edited the controls so it controls smoother. I also made the level more challanging and added a different game over result.
+ 
 </details>
 
 <details>
@@ -87,8 +87,6 @@
   </summary>
   
   * [Rougelike: Heaven Mize](https://myzer0soul0902.github.io/GameBuild/index.html) --- I'm planning on editing Rougelike to have a proper ending.
-  
-  * [Rougelike: Doug Urner]() --- Working on adding a second level.
-  
+    
   * [Rougelike: Justin Sewell](https://Starfighter36.github.io/WebGL/index.html) --- Built a second area for the game with enemies and items with a maze.
    
