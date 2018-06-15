@@ -1,5 +1,5 @@
 # Game Design Playtest Page
-
+[GAME_NAME](NAME_OF_GAME_FOLDER/index.html)
 After you have built your game and published it on your website, add a link to the playtest page, index.md in this repository.
 
 To do this:
