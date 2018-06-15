@@ -10,14 +10,13 @@
 
   * [Iron Eagles: Jack Stencil]() --- This is a small version of what will be a larger game where the player controlls a spaceship and has to defend against increasing waves of enemies.
   
-  * [Ghost&Bee: Jackson]() --- This a minature clone of a mario map. You play as a ghost with a bee following him. "Fallout76"
-
-  * [Moon Evade: Anthony Feuchtwanger](https://github.com/Buddy312/Adv-Game-Final/) --- This is a small version of what will be a larger game where the player controls rocket and he has to evade left and right to not get hit by the asteroids coming his way and has to survive for as long as possible. When hit it turns off the camera and deletes the Rocket. I would like to expand this to include a 2d version as well. I would also like to add in a 3 life system, but the spawn rate and what is being spawned can be change.  
+  * [Ghost&Bee: Jackson]() --- This a minature clone of a mario map. You play as a ghost with a bee following him. "Fallout 76"
   
- *[Monstertruck Nw:Nathan Whitney](Games/MonstertruckNw/index.html) --- Use the Monstertruck to collect the 4 coins  
+  * [Dont Get Caught: Teage Aquino](Games/DontGetCaught) --- Use WASD to collect the coin and score a goal to win, but don't get caught by the ghost!
   
-
-* [Walk With Me: Doug Urner](Games/WalkWithMe/index.html) --- Walk in someone else's shoes.
+  * [Moon Evade: Anthony Feuchtwanger](https://github.com/Buddy312/Adv-Game-Final/) --- This is a small version of what will be a larger game where the player controls rocket and he has to evade left and right to not get hit by the asteroids coming his way and has to survive for as long as possible. When hit it turns off the camera and deletes the Rocket. I would like to expand this to include a 2d version as well. I would also like to add in a 3 life system, but the spawn rate and what is being spawned can be change.
+  
+  * [Monstertruck Nw:Nathan Whitney](Games/MonstertruckNw/index.html) --- Use the Monstertruck to collect the 4 coins  
   
 
 ## Variations
