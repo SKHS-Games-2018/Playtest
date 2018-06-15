@@ -65,7 +65,8 @@
  
  * [Lander: Isaiah Montez](https://isaiahmontez.github.io/Lander/index.html)--- work on the controls
 
-* [Lander: Malcolm Cisler](https://DatCancerousBoi.github.io/WebGL/index.html) --- I edited the controls so it controls smoother. I also made the level more challanging and added a different game over result.
+ * [Lander: Malcolm Cisler](https://DatCancerousBoi.github.io/WebGL/index.html) --- I edited the controls so it controls smoother. I also made the level more challanging and added a different game over result.
+ 
 </details>
 
 <details>
@@ -88,8 +89,6 @@
   </summary>
   
   * [Rougelike: Heaven Mize](https://myzer0soul0902.github.io/GameBuild/index.html) --- I'm planning on editing Rougelike to have a proper ending.
-  
-  * [Rougelike: Doug Urner]() --- Working on adding a second level.
-  
+    
   * [Rougelike: Justin Sewell](https://Starfighter36.github.io/WebGL/index.html) --- Built a second area for the game with enemies and items with a maze.
    
