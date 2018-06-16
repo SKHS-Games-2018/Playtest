@@ -16,6 +16,8 @@
   
   * [Moon Evade: Anthony Feuchtwanger](https://github.com/Buddy312/Adv-Game-Final/) --- This is a small version of what will be a larger game where the player controls rocket and he has to evade left and right to not get hit by the asteroids coming his way and has to survive for as long as possible. When hit it turns off the camera and deletes the Rocket. I would like to expand this to include a 2d version as well. I would also like to add in a 3 life system, but the spawn rate and what is being spawned can be change.
   
+  * [Resource Collector: Angel Bowman](Game/ResourceCollector/index.html) --- Resource Collector is a game where you have to try to collect all the resources and avoid running into the blue fish on the ground (its an enemy).
+  
   * [Cat Dash: Micah Hargrave](Games/CatDash/index.html) --- Cat Dash is a running game, you have to try and get to end without losing all your lives. Live are taken away when you are hit by a weight, to restore your health collect the gold coins
 
   * [Bird Maze: Zachary Clay](Games/BirdMaze/index.html) --- Dodge Asteroids in space and arcade as a yellow bird
@@ -24,15 +26,11 @@
   
   * [Rocket Race: Jakob Farrell](Games/RocketRace/index.html) --- You control a rocket, flying away from a magnet that is constantly chasing you, while doing this you must avoid the physical barriers that slow you down and/or stop you.
 
-
-* [Ghost Doors: Victoria Lane](Games/GhostDoors/index.html) --- playing as a ghost you are trying to find the key to let you leave the meadow where you are trapped. beware as there are others wondering there as well and some things are not as they seem.
-
-
-
+  * [Ghost Doors: Victoria Lane](Games/GhostDoors/index.html) --- playing as a ghost you are trying to find the key to let you leave the meadow where you are trapped. beware as there are others wondering there as well and some things are not as they seem.
 
   * [Galactica: SpecterSans/Deven Deriso](Games/Galactica/index.html) --- A shooter where the camera stays in one place, there's only four slow enemies and a couple of asteroids
 
- * [truckstop: James Tisdel](Games/truckstop/index.html) --- this game is a small game where the ruls are simple move left and right usin a and d then jump with the space bar, you just want to collect the most amount of coins by the end of the game. at some point there will be a timer added so you can try o beat the clock.
+  * [truckstop: James Tisdel](Games/truckstop/index.html) --- this game is a small game where the ruls are simple move left and right usin a and d then jump with the space bar, you just want to collect the most amount of coins by the end of the game. at some point there will be a timer added so you can try o beat the clock.
 
 ## Variations
 
